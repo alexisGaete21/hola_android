@@ -1,0 +1,7 @@
+{
+  "name": "holaMundoTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
